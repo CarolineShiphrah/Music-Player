@@ -1,2 +1,2 @@
 # Music Player
-Music player using PySimpleGUI and json.
+Music player using PySimpleGUI.
